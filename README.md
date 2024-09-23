@@ -17,18 +17,18 @@ September 25, 2024
    We will be prototyping the game for PC, with mouse and trackpad support.
 
 3. **Gas Always On**   
-  - The player's car is constantly accelerating, which changes the standard racing game mechanics by forcing the player to focus solely on steering to avoid obstacles.
+   The player's car is constantly accelerating, which changes the standard racing game mechanics by forcing the player to focus solely on steering to avoid obstacles.
 
 4. **Steering via Mouse/Trackpad/Touch Input**     
-   - Players control left and right steering using mouse or touch input. The kinesthetics of these controls will be the primary input system, creating a simple yet challenging gameplay loop.
+   Players control left and right steering using mouse or touch input. The kinesthetics of these controls will be the primary input system, creating a simple yet challenging gameplay loop.
 
 5. **Obstacles**     
-   - The track will be littered with hazards that can damage the car or provide advantages:
+   The track will be littered with hazards that can damage the car or provide advantages:
      - **Damaging Obstacles**: Walls, roadblocks, and spikes that reduce player health.
      - **Advantageous Obstacles**: Boost pads or power-ups that temporarily increase player speed or grant invincibility.
 
 6. **Bouncing Mechanic/Teleportation**     
-   - The player's car will be designed to bounce off walls rather than get stuck in them. If a player does get stuck, they will be teleported back to the middle of the track to ensure gameplay continuity.
+   The player's car will be designed to bounce off walls rather than get stuck in them. If a player does get stuck, they will be teleported back to the middle of the track to ensure gameplay continuity.
 
 7. **Objective Statement**  
    We aim to test whether players enjoy overcoming the challenge of restricted control mechanics, where acceleration is constant, and only steering is available. 
