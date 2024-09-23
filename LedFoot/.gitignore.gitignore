@@ -72,7 +72,67 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Assets
-*.psd
-*.jpg
-*.prefab
+# Images
+*.bmp                   
+*.exr                   
+*.gif                   
+*.hdr                   
+*.iff                  
+*.jpeg                  
+*.jpg                  
+*.pict                 
+*.png                  
+*.psd                   
+*.tga                   
+*.tif                  
+*.tiff                  
+*.webp
+
+# Video
+*.asf                   
+*.avi                  
+*.flv                  
+*.mov                  
+*.mp4                   
+*.mpeg                 
+*.mpg                  
+*.ogv                  
+*.wmv
+
+# Audio
+*.aif                  
+*.aiff                  
+*.it                   
+*.mod                   
+*.mp3                  
+*.ogg                   
+*.s3m                   
+*.wav                   
+*.xm
+
+# Unity YAML
+*.anim                 
+*.asset                 
+*.brush                 
+*.controller           
+*.flare                 
+*.fontsettings          
+*.giparams             
+*.guiskin               
+*.lighting             
+*.mask                 
+*.mat                   
+*.meta                 
+*.mixer                
+*.overrideController    
+*.playable              
+*.prefab                
+*.preset                
+*.renderTexture         
+*.scenetemplate         
+*.shadervariants        
+*.signal               
+*.spriteatlas          
+*.spriteatlasv2         
+*.terrainlayer         
+*.unity
